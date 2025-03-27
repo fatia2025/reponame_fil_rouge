@@ -1,0 +1,11 @@
+ git commit -m "Ajout des fichiers HTML et CSS"
+ 28/03/2025:
+ creer les dosiiers et le repo avec les sprints de 3 semaines.
+ 29/03/2025 :
+ Gestionnaire du projet:
+ page d'accueil: 
+logo menu : index Catégories mes création mes favoris se connecter pannier 
+Page catégories: t-shir cabas: 
+   femme homme taille couleur description:
+page contact: email téléphone
+page pannier: Votre panier est vide vos produits
